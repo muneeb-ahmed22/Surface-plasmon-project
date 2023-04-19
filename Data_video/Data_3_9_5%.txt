@@ -1,0 +1,28 @@
+#time_and_date=2023-03-09 11:39:10.690732    
+#concentration=5
+#startingangle=182.2
+#endingangle=191.9
+#rotation_sp=0
+#timedelay=0
+#samplestaken=12
+
+Raw Intensity value
+1.188
+.772
+.486
+.413
+.353
+.332
+.480
+.644
+.816
+Raw Angle Value 
+185.3
+186.1
+186.8
+187.1
+187.7
+187.8
+188.9
+189.8
+190.3
